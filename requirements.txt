@@ -1,4 +1,5 @@
 pyproj
+cython
 numpy
 pandas
 xarray
