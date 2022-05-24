@@ -2,6 +2,7 @@ numpy
 pandas
 xarray
 hvplot
+datashader
 dask
 netcdf4
 pydap
