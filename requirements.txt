@@ -3,3 +3,4 @@ pandas
 xarray
 hvplot
 dask
+geoviews
