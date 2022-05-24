@@ -1,8 +1,5 @@
-pyproj
-cython
 numpy
 pandas
 xarray
 hvplot
 dask
-geoviews
