@@ -1,0 +1,1 @@
+rclone copy /jak1/afunk/NASA_mentorship_2022/data/Indonesia_monthly_rainfall --include "/DPR_Indonesia_rainfall_2015*" TAMU_ONEDRIVE:NASA_DPR_Mentorship_2022/Sharing/data/Ayuna
