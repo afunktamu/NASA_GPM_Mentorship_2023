@@ -6,4 +6,5 @@ datashader
 dask
 netcdf4
 pydap
+holoviews
 geoviews
