@@ -6,3 +6,4 @@ datashader
 dask
 netcdf4
 pydap
+cartopy
