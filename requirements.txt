@@ -6,3 +6,5 @@ datashader
 dask
 netcdf4
 pydap
+geopandas
+rioxarray
